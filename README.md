@@ -44,12 +44,15 @@ Run the program using:
 # Generic Instructions
 
 - Maze Size:
+
     o Recommended: size_of_maze ≤ 101 to prevent excessive runtime and memory
        usage.
 - Number of Particles:
+
     o Recommended: number_of_particles = 2 × size_of_maze for optimal
        performance.
 - Debug Mode:
+  
     o Set the debug flag to true to visualize the maze and the path discovered during
        execution.
 
