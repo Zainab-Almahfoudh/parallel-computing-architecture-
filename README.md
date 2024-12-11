@@ -1,4 +1,4 @@
-# Read me file GitHub
+
 
 # Efficient Maze Solving through Parallel Processing
 
