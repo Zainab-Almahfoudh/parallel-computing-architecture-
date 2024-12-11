@@ -20,7 +20,7 @@ improved efficiency, making it suitable for real-time applications.
 
 # Prerequisites
 
-- Ensure gcc is installed on your system (tested with gcc- 1 4.2.0).
+- Ensure gcc is installed on your system (tested with gcc- 14.2.0).
 - A multi-core processor is recommended for best results.
 
 # Compilation
